@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Roxanna2310
 - 👀 I’m interested in computing
 - 🌱 I currently work at Computacenter UK 
-- 💞️ I’m looking to collaborate on Web Services 
 - 📫 How to reach me roxie@roxie.me.uk
 
 <!---
