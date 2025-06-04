@@ -16,3 +16,5 @@ https://roxie.me.uk/contact.php or just drop me a message here on GitHub!
 Roxanna2310/Roxanna2310 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21tsi4drrun7wx53wkbheocyq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21tsi4drrun7wx53wkbheocyq&redirect=true)
