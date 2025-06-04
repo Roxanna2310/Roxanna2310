@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Roxanna!
 
-# 💻 Computing Enthusiast | IT Professional at Computacenter UK
+# 💻 Computing Enthusiast | IT Specialist at Computacenter UK
 Welcome to my GitHub!
 I’m passionate about all things tech—whether it’s coding, exploring new software, or solving complex IT puzzles. Currently, I’m part of the amazing team at Computacenter UK, where I get to turn ideas into solutions every day.
 
